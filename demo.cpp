@@ -1,4 +1,7 @@
-# include <stdio.h>
+// # include <stdio.h>
+//a chnge is to be done here...in place of stdio.h you have to include iostream...
+
+# include <iostream>  //correction
 using namespace std;
 int main(){
   cout<<"hello..."<<endl;
